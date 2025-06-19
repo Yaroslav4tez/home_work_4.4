@@ -23,7 +23,7 @@ switch (forCase) {
     case 'number is Ba_NaN':
         console.log(' number is Ba_NaN');
         break;             
-    default:
+    case 'OK!':
         console.log('OK!')
         break;
 }
